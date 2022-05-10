@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "XVSmsxGsP1hkWWqaRWUFd1JIP8bSo/F7F8Lll0kvlgidiygXXyGUz7En94L06pU+Uf5ucjMXMonEoHonc/H+pA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\IdentityServer\\Duende Identity Server\\RazerWeb\\RazerWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vbkhd\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.4\\microsoft.aspnetcore.authentication.openidconnect.6.0.4.nupkg.sha512",
+    "C:\\Users\\vbkhd\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\vbkhd\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\vbkhd\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "C:\\Users\\vbkhd\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\vbkhd\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "C:\\Users\\vbkhd\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\vbkhd\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "C:\\Users\\vbkhd\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

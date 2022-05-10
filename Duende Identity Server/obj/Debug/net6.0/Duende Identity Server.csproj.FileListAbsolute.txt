@@ -1,0 +1,47 @@
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\appsettings.json
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Duende Identity Server.exe
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Duende Identity Server.deps.json
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Duende Identity Server.runtimeconfig.json
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Duende Identity Server.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Duende Identity Server.pdb
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Duende.IdentityServer.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\IdentityModel.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Serilog.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\Duende Identity Server.csproj.AssemblyReference.cache
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\Duende Identity Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\Duende Identity Server.AssemblyInfoInputs.cache
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\Duende Identity Server.AssemblyInfo.cs
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\Duende Identity Server.csproj.CoreCompileInputs.cache
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\Duende Identity Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\scopedcss\bundle\Duende Identity Server.styles.css
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\Duende Identity Server.csproj.CopyComplete
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\Duende Identity Server.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\refint\Duende Identity Server.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\Duende Identity Server.pdb
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\Duende Identity Server.genruntimeconfig.cache
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\ref\Duende Identity Server.dll
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\keys\is-signing-key-4D6F1276B6B92474463647DB30DA601E.json
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\bin\Debug\net6.0\Duende Identity Server.staticwebassets.runtime.json
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\Duende Identity Server.RazorAssemblyInfo.cache
+D:\Projects\IdentityServer\Duende Identity Server\Duende Identity Server\obj\Debug\net6.0\Duende Identity Server.RazorAssemblyInfo.cs
